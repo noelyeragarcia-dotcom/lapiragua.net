@@ -1,0 +1,10 @@
+{
+  "name": "La Piragua",
+  "short_name": "La Piragua",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Red económica y comercial de Cuba",
+  "icons": []
+}
